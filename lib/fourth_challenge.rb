@@ -7,9 +7,14 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here
         first_friend {
-          :name => ""
-          :age
-          :attitude
+          :name => "Benvolio"
+          :age => "17"
+          :attitude => "worried"
+        }
+        second_friend {
+          :name => "Benvolio"
+          :age => "17"
+          :attitude => "worried"
         }
       ]
    }, 
